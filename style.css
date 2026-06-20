@@ -403,3 +403,145 @@ color: #666666;
     width: fit-content;
 
 }
+
+/* Designing Footer */
+.footer {
+    width: 1440;
+    height: 425;
+    top: 3129px;
+    opacity: 1;
+    padding-top: 80px;
+    padding-right: 48px;
+    padding-bottom: 40px;
+    padding-left: 48px;
+    background-color: #111111;
+ 
+
+}
+.footer-2{
+    display: flex;
+    gap: 64px;
+    padding-bottom: 60px;
+}
+
+.footer-3{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: white;
+}
+
+.footer-5{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: white;
+}
+
+.footer-7{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: white;
+}
+
+.footer-9{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: white;
+}
+
+.paragraphy-1 {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22.75px;
+    letter-spacing: 0px;
+    color:#FFFFFF99;
+}
+
+.footer-6 {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;;
+    gap: 12px;
+    opacity: 1;
+
+}
+
+.footer-6 a{
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0px;
+    color: #FFFFFF99;
+
+
+}
+
+.footer-8{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;;
+    gap: 12px;
+    opacity: 1;
+}
+
+.footer-8 a{
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0px;
+    color: #FFFFFF99;
+}
+
+.paragraphy-2{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0px;
+   color: #FFFFFF99;
+
+
+}
+
+.footer-4{
+    display: flex;
+    gap:16px;
+    padding-top: 1.2px;
+}
+
+.footer-4 i {
+    display: inline-block;
+    color:  #FFFFFF99;
+;
+
+}
+
+.footer-11{
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #FFFFFF1A;
+    padding-top: 32px;
+    color: #FFFFFF66;
+
+}
+.footer-12{
+    direction: flex;
+    gap: 24px;
+
+}
+
+.footer-12 a{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    color: #FFFFFF66;
+
+}
